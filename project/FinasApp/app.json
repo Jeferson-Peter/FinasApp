@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "finasApp",
-    "slug": "finasApp",
+    "name": "FinasApp",
+    "slug": "FinasApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
